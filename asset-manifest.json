@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/GhaythGame/static/css/main.d2834fe0.chunk.css",
+    "main.js": "/GhaythGame/static/js/main.2dc02683.chunk.js",
+    "main.js.map": "/GhaythGame/static/js/main.2dc02683.chunk.js.map",
+    "runtime~main.js": "/GhaythGame/static/js/runtime~main.2ce9207f.js",
+    "runtime~main.js.map": "/GhaythGame/static/js/runtime~main.2ce9207f.js.map",
+    "static/js/2.ebc69c9a.chunk.js": "/GhaythGame/static/js/2.ebc69c9a.chunk.js",
+    "static/js/2.ebc69c9a.chunk.js.map": "/GhaythGame/static/js/2.ebc69c9a.chunk.js.map",
+    "index.html": "/GhaythGame/index.html",
+    "precache-manifest.426190b02a54cedc00793104197b48b2.js": "/GhaythGame/precache-manifest.426190b02a54cedc00793104197b48b2.js",
+    "service-worker.js": "/GhaythGame/service-worker.js",
+    "static/css/main.d2834fe0.chunk.css.map": "/GhaythGame/static/css/main.d2834fe0.chunk.css.map",
+    "static/media/FTP.png": "/GhaythGame/static/media/FTP.d9b78ad5.png",
+    "static/media/PAP.png": "/GhaythGame/static/media/PAP.7c954774.png",
+    "static/media/gp7.jpg": "/GhaythGame/static/media/gp7.3f38529f.jpg",
+    "static/media/sm_gp10.jpg": "/GhaythGame/static/media/sm_gp10.c12c8c0f.jpg",
+    "static/media/sm_gp11.jpg": "/GhaythGame/static/media/sm_gp11.2f3db5ea.jpg",
+    "static/media/sm_gp12.jpg": "/GhaythGame/static/media/sm_gp12.8482d048.jpg",
+    "static/media/sm_gp13.jpg": "/GhaythGame/static/media/sm_gp13.4e900b3a.jpg",
+    "static/media/sm_gp3.jpg": "/GhaythGame/static/media/sm_gp3.436ab3cb.jpg",
+    "static/media/sm_gp4.jpg": "/GhaythGame/static/media/sm_gp4.42e7f6a8.jpg",
+    "static/media/sm_gp5.jpg": "/GhaythGame/static/media/sm_gp5.01ee7007.jpg",
+    "static/media/sm_gp6.jpg": "/GhaythGame/static/media/sm_gp6.ee49c742.jpg",
+    "static/media/sm_gp8.jpg": "/GhaythGame/static/media/sm_gp8.32488e9c.jpg",
+    "static/media/sm_gp9.jpg": "/GhaythGame/static/media/sm_gp9.b368e110.jpg"
+  }
+}
